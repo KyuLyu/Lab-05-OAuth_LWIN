@@ -1,0 +1,19 @@
+i. What happens when a user accesses /profile without logging in?
+    The User gets an unauthorized access screen.
+
+ii. What data is returned after successful login?
+
+    The data that is returned is the profile data of the logged in github account
+
+iii. Why is OAuth considered more secure than traditional login?
+
+    a traditional login usually refers to only having a username and password, an OAuth uses limted time tokens.
+
+iv. What challenges did you encounter?
+
+    the routing of the app which led to a few bugs in the system
+
+v. What did you learn from this activity?
+
+    I learned how to set up an OAuth app with github as well as how it is more secure than a traditional login
+
